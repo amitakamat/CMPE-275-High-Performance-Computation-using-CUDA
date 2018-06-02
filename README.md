@@ -59,7 +59,9 @@ Time is in seconds
 | 31          | 13          | 357.952     | 17.549        | 95.09  |
 | 40          | 15          | 625.305     | 30.531        | 95.117 |
   
-  
+#### All the charts for above readings are available in the images folder  
+    
+    
 ### Input Image:  
 ![Original Input Image](/images/original.jpg "Original Image")
   
